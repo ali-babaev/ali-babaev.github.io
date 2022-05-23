@@ -1,29 +1,11 @@
-title: Ali Babaev # your name (or website title) here
-logo: "/images/logo.png?raw=true width="40" height="40"" # your photo (or logo) here
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  
-  Опыт работы 8+ лет в консалтинге/телеком/финтех.
+  First description 
   <br><br>
-  Навыки:
-  <br><br>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40" height="40"/>
-  <img src="https://symbols.getvecta.com/stencil_92/7_plotly-official.8bbcd93bcc.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-  <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Tableau-Desktop-Logo.svg" width="30" height="30"/>  
-  <img src="https://www.urudatasoftware.com/images/logo/powerbi-negro.svg" width="40" height="40"/>
-  <br><br> 
-  Сертификаты:
-  <br><br> 
-  <a href="https://www.credly.com/badges/986c01ad-e1c4-48c8-8c0a-f1fd8b9ca711/public_url"><img src="https://images.credly.com/size/680x680/images/af27ef78-6967-4082-b6ce-8111b1af47e1/MTA_Database_Fundamentals-01.png" height="50" width="50" /></a> 
-   
-
-#  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
