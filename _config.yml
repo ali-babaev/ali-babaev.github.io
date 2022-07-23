@@ -20,7 +20,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br> 
   Сертификаты:
   <br>
-  <a href="https://www.credly.com/users/ali-babaev"><img src="https://docs.microsoft.com/ru-RU/media/learn/certification/badges/microsoft-certified-expert-badge.svg" height="70" width="70" /></a> 
+  <a href="https://www.credly.com/users/ali-babaev"><img src="https://docs.microsoft.com/ru-RU/media/learn/certification/badges/microsoft-certified-expert-badge.svg" height="70" width="70"/></a>
+  <a href="https://www.hackerrank.com/certificates/9b5cfa9004d2"><img src="images/hacker_rank.svg" height="70" width="70"/></a>
   
 
 #  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
